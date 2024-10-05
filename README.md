@@ -136,10 +136,6 @@ We welcome contributions from the community! To contribute:
 
 5. Open a Pull Request.
 
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact ✉️
 
 If you have any questions or feedback, feel free to reach out.
